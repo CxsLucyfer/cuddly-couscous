@@ -1,0 +1,14 @@
+{
+  "entrypoint": "/ide-desktop/jb-launcher",
+  "entrypointArgs": [
+    "{DESKTOPIDEPORT}",
+    "webstorm",
+    "Open in WebStorm"
+  ],
+  "readinessProbe": {
+    "type": "http",
+    "http": {
+      "path": "/status"
+    }
+  }
+}

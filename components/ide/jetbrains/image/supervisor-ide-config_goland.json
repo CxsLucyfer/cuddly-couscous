@@ -1,0 +1,14 @@
+{
+  "entrypoint": "/ide-desktop/jb-launcher",
+  "entrypointArgs": [
+    "{DESKTOPIDEPORT}",
+    "goland",
+    "Open in GoLand"
+  ],
+  "readinessProbe": {
+    "type": "http",
+    "http": {
+      "path": "/status"
+    }
+  }
+}
