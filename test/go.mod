@@ -133,7 +133,7 @@ require (
 	github.com/prometheus/common v0.37.0 // indirect
 	github.com/rs/xid v1.2.1 // indirect
 	github.com/russross/blackfriday v1.5.2 // indirect
-	github.com/sirupsen/logrus v1.8.1 // indirect
+	github.com/sirupsen/logrus v1.8.3 // indirect
 	github.com/slok/go-http-metrics v0.10.0 // indirect
 	github.com/sourcegraph/jsonrpc2 v0.0.0-20200429184054-15c2290dcb37 // indirect
 	github.com/spf13/cobra v1.4.0 // indirect
