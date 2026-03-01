@@ -31,7 +31,7 @@ require (
 	github.com/prometheus/procfs v0.8.0
 	github.com/prometheus/pushgateway v1.4.3
 	github.com/ramr/go-reaper v0.2.1
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/soheilhy/cmux v0.1.5
 	github.com/spf13/cobra v1.4.0
 	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
