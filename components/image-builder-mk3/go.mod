@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/alecthomas/jsonschema v0.0.0-20210526225647-edb03dcab7bc
 	github.com/containerd/containerd v1.6.14
-	github.com/docker/cli v20.10.17+incompatible
+	github.com/docker/cli v29.2.0+incompatible
 	github.com/docker/distribution v2.8.1+incompatible
 	github.com/docker/docker v20.10.17+incompatible
 	github.com/docker/docker-credential-helpers v0.6.4 // indirect
@@ -23,7 +23,7 @@ require (
 	github.com/opencontainers/image-spec v1.0.3-0.20211202183452-c5a74bcca799
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/prometheus/client_golang v1.13.0
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/spf13/cobra v1.4.0
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	google.golang.org/grpc v1.49.0
