@@ -5,14 +5,14 @@ go 1.19
 require (
 	github.com/containerd/console v1.0.3
 	github.com/containerd/containerd v1.6.14
-	github.com/docker/cli v20.10.17+incompatible
+	github.com/docker/cli v29.2.0+incompatible
 	github.com/docker/distribution v2.8.1+incompatible
 	github.com/gitpod-io/gitpod/common-go v0.0.0-00010101000000-000000000000
 	github.com/gofrs/flock v0.8.0 // indirect
 	github.com/hashicorp/go-retryablehttp v0.7.0
 	github.com/moby/buildkit v0.10.6
 	github.com/opencontainers/runtime-spec v1.0.3-0.20220909204839-494a5a6aca78
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/spf13/cobra v1.4.0
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
